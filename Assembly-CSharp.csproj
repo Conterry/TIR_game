@@ -53,9 +53,20 @@
   <ItemGroup>
      <Compile Include="Assets\BulletRigid.cs" />
      <Compile Include="Assets\Bullets_walls.cs" />
+     <Compile Include="Assets\ExitGame.cs" />
      <Compile Include="Assets\Nokobot\ModernGuns_Handgun\Demo Assets\SimpleShoot.cs" />
+     <Compile Include="Assets\ShopTrigger.cs" />
      <Compile Include="Assets\Target.cs" />
+     <Compile Include="Assets\Tom&apos;s Terrain Tools\2DTools\Scripts\Camera2DFollow.cs" />
+     <Compile Include="Assets\Tom&apos;s Terrain Tools\2DTools\Scripts\CircleMoverSample.cs" />
+     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\ForceGrassDistanceInEditor.cs" />
+     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\KeepOnSurface.cs" />
+     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\PlaceOnSurfaceAtStart.cs" />
+     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\SpawnInArea.cs" />
+     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\TerrainQualitySettings.cs" />
+     <Compile Include="Assets\Tom&apos;s Terrain Tools\Scripts\TreeExplosion.cs" />
      <Compile Include="Assets\WallRigid.cs" />
+     <None Include="Assets\Tom&apos;s Terrain Tools\Example Data\Terragen Sources\README.txt" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2017.4.37f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
